@@ -10,5 +10,8 @@
         "commitizen": {
             "path": "cz-conventional-changelog"
         }
-    }    
+    },
+    "dependencies": {
+        "standard-changelog": "^5.0.0"
+    }
 }
